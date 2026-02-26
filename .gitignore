@@ -1,0 +1,9 @@
+node_modules/
+dist/
+target/
+target_new/
+.wrangler/
+.env
+.env.local
+build/
+*.log
